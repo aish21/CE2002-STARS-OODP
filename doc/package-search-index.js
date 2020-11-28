@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"courses"},{"l":"displayIO"},{"l":"emailClient"},{"l":"faculty"},{"l":"main"},{"l":"student"}];updateSearchResults();
